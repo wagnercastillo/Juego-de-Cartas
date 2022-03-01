@@ -8,7 +8,6 @@ Juego desarrollado como proyecto de una asignatura de la Universidad.
 ## Ejecución y Juego
 
 
-
 ```bash
   Puedes probar el juego con Netbeans y un Jdk posterior al 12
 ```
